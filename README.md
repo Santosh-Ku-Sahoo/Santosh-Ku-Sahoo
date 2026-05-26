@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Santosh Kumar Sahoo 👋
 
-<!--
-**Santosh-Ku-Sahoo/Santosh-Ku-Sahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech CSE student at GIFT Autonomous, Bhubaneswar
 
-Here are some ideas to get you started:
+💻 I build across web and AI/ML — from responsive front-end apps to deep learning models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+- **Languages:** Python, JavaScript, Java, C
+- **Web:** HTML, CSS, Bootstrap
+- **AI/ML:** TensorFlow, PyTorch, scikit-learn, CNNs
+- **Database:** MySQL
+
+---
+
+## 🚀 Featured Projects
+- **FRA-Nexus** — AI tool to digitize land titles and map village assets using OCR + satellite imagery
+- **Cancer Detection System** — CNN-based model to classify cancerous vs non-cancerous samples
+- **Gym & Workout Web App** — Responsive multi-page fitness website
+
+---
+
+## 📫 Connect
+- Email: sksahoo1401@gmail.com
+- LinkedIn: linkedin.com/in/santosh-ku-sahoo/
