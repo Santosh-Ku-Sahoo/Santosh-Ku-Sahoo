@@ -77,12 +77,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santosh-Ku-Sahoo&theme=react-dark&hide_border=true" width="98%"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2&width=1000"/>
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Santosh-Ku-Sahoo&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
