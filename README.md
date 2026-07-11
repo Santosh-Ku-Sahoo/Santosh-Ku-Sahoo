@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Santosh-Ku-Sahoo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Final+Year+CSE+Student+%40+GIFT+Autonomous;MERN+Stack+%7C+AI%2FML+Builder;Working+on+FRA-Nexus+%E2%80%94+OCR+%2B+GeoAI;Open+to+SDE+%2F+Full+Stack+roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Final+Year+CSE+Student+%40+GIFT+Autonomous;MERN+Stack+%7C+AI%2FML+Builder;Building+FLEEA+%E2%80%94+an+autonomous+AI+agent;Open+to+SDE+%2F+Full+Stack+roles" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 ### 🧭 About Me
 
 - 🎓 Final-year B.Tech CSE student (2027), GIFT Autonomous, Bhubaneswar — AI/ML specialization, MERN stack focus
-- 🔭 Currently building **FRA-Nexus** — OCR + satellite imagery pipeline for India's Forest Rights Act
+- 🔭 Currently building **FLEEA** — a production-grade autonomous AI agent with memory, voice I/O, and tool execution
 - 🎯 Actively preparing for SDE / Full Stack placement roles
 - 🏀 Off-screen: basketball and digital painting
 
@@ -40,14 +40,25 @@
 ### 📌 Featured Project
 
 <p align="center">
-  <a href="https://github.com/Santosh-Ku-Sahoo/FRA-nexus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santosh-Ku-Sahoo&repo=FRA-nexus&theme=radical&hide_border=true" />
+  <a href="https://github.com/Santosh-Ku-Sahoo/FLEEA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santosh-Ku-Sahoo&repo=FLEEA&theme=radical&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  AI-powered prototype supporting India's Forest Rights Act — digitizes paper land titles via OCR and maps village assets (farms, ponds) from satellite imagery.
+  Production-grade autonomous AI agent — long-term vector memory (ChromaDB), voice I/O (Whisper STT + TTS), real-time SocketIO chat, and a React + Tailwind dashboard with role-based auth.
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2&width=1000"/>
+
+### 🚀 Other Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Vanaadhikar](https://github.com/Santosh-Ku-Sahoo/Vanaadhikar)** | WebGIS + DSS prototype for India's Forest Rights Act — [live demo](https://vanaadhikar.vercel.app) | Flask, Leaflet.js, SQLite |
+| **[Library Management System](https://github.com/Santosh-Ku-Sahoo/Library-Management-System)** | REST API for book/user/subscription management | Node.js, Express |
+| **[House Price Predictor](https://github.com/Santosh-Ku-Sahoo/houseprice_predictor)** | Regression model for house price estimation | Python, scikit-learn |
+| **[Workout Tracker](https://github.com/Santosh-Ku-Sahoo/workout_page)** | Responsive fitness landing page — [live demo](https://workout-page-lime.vercel.app) | HTML, CSS, JS |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2&width=1000"/>
 
